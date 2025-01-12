@@ -374,7 +374,7 @@ discovery:<x17><x15><x7B><x80>
 [ENDBLOCK]
 사제
 [ENDBLOCK]
-<Ayles> 사교님께 협력하여
+<Ayles> 주교님께 협력하여
 하루빨리 신전을 원래대로 돌려놓아야 합니다.
 [ENDBLOCK]
 사제

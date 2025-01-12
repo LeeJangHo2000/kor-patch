@@ -381,7 +381,7 @@ discovery:<x17><x15><x7B><x80>
 [ENDBLOCK]
 사제
 [ENDBLOCK]
-<Ayles> 사교님께 협력하여
+<Ayles> 주교님께 협력하여
 하루빨리 신전을 원래대로 돌려놓아야 합니다.
 [ENDBLOCK]
 사제
@@ -482,7 +482,7 @@ discovery:<x17><x15><x7B><x80>
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-저는 이 신전의 사교를 맡고 있는
+저는 이 신전의 주교를 맡고 있는
 아일츠라고 합니다.
 [ENDBLOCK]
 <Rutee>
@@ -497,7 +497,7 @@ discovery:<x17><x15><x7B><x80>
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-그리고 저지하려 한 대사교님을……!
+그리고 저지하려 한 대주교님을……!
 아아…… 얼마나 가엾으신지……
 [ENDBLOCK]
 <Ayles>
